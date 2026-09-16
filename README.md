@@ -19,7 +19,7 @@
 
 **Ferramentas:**
 
-<img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/><img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" height="40"/><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40"/>
 
 ---
 
