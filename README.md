@@ -6,7 +6,6 @@
 - 🌱 Aprendendo um pouco de Front-end (HTML, CSS, JS);
 - 🗣️ Aprendendo inglês para ampliar oportunidades no mercado;
 - 🤖 Utilizo IA como aliada no aprendizado e na produtividade;
-- 🧑🏼‍💻 Vibe Coder.
 
 ⚡ Sempre em busca de novos aprendizados e desafios!
 
